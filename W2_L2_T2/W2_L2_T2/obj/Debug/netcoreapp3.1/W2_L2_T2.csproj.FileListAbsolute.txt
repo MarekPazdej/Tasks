@@ -1,0 +1,13 @@
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\bin\Debug\netcoreapp3.1\W2_L2_T2.exe
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\bin\Debug\netcoreapp3.1\W2_L2_T2.deps.json
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\bin\Debug\netcoreapp3.1\W2_L2_T2.runtimeconfig.json
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\bin\Debug\netcoreapp3.1\W2_L2_T2.runtimeconfig.dev.json
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\bin\Debug\netcoreapp3.1\W2_L2_T2.dll
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\bin\Debug\netcoreapp3.1\W2_L2_T2.pdb
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\obj\Debug\netcoreapp3.1\W2_L2_T2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\obj\Debug\netcoreapp3.1\W2_L2_T2.AssemblyInfoInputs.cache
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\obj\Debug\netcoreapp3.1\W2_L2_T2.AssemblyInfo.cs
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\obj\Debug\netcoreapp3.1\W2_L2_T2.csproj.CoreCompileInputs.cache
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\obj\Debug\netcoreapp3.1\W2_L2_T2.dll
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\obj\Debug\netcoreapp3.1\W2_L2_T2.pdb
+D:\Source\Repos\KursDotNeta\Tasks\Tasks\W2_L2_T2\W2_L2_T2\obj\Debug\netcoreapp3.1\W2_L2_T2.genruntimeconfig.cache
