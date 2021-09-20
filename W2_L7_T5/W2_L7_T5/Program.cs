@@ -8,6 +8,7 @@ namespace W2_L7_T5
         {
             Console.WriteLine("Popdaj swój wiek.");
             int userAge = Convert.ToInt32(Console.ReadLine());
+
             if (userAge >=35)
             {
                 Console.WriteLine($"Mając {userAge} możesz zostać posłem, premierem, senatorem a nawet prezydentem.");
