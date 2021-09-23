@@ -6,16 +6,35 @@ namespace W2_L7_T10
     {
         static void Main(string[] args)
         {
+            int maxSideLength = 0;
+            bool maxSideA = false;
+            bool maxSideB = false;
+            bool maxSideC = false;
+
             Console.WriteLine("Podaj długość pierwszego boku trójkąta.");
-            byte triangleFirstside = Convert.ToByte(Console.ReadLine());
+            int triangleSideA = Convert.ToInt32(Console.ReadLine());
+            maxSideLength = triangleSideA;
+            maxSideA = true;
 
             Console.WriteLine("Podaj długość drugiego boku trójkąta.");
-            byte tringleSecondSide = Convert.ToByte(Console.ReadLine());
+            int triangleSideB = Convert.ToInt32(Console.ReadLine());
+            if (triangleSideA < triangleSideB)
+            {
+                maxSideLength = triangleSideB;
+                maxSideB = true;
+                maxSideA = false;
+            }
 
             Console.WriteLine("Podaj długość trzeciego boku trójkąta.");
-            byte triangleThirdSide = Convert.ToByte(Console.ReadLine());
+            int triangleSideC = Convert.ToInt32(Console.ReadLine());
+            if (triangleSideB < triangleSideC)
+            {
+                maxSideLength = triangleSideC;
+                maxSideC = true;
+                maxSideB = false;
+            }
 
-            if (triangleFirstside + tringleSecondSide > triangleThirdSide || triangleThirdSide + triangleThirdSide > triangleFirstside || triangleThirdSide + triangleFirstside > tringleSecondSide)
+            if (maxSideA == true && triangleSideA < triangleSideB + triangleSideC || maxSideB == true && triangleSideB < triangleSideA + triangleSideC || maxSideC == true && triangleSideC < triangleSideA + triangleSideB)
             {
                 Console.WriteLine("Można zbudować trójkąt.");
             }
