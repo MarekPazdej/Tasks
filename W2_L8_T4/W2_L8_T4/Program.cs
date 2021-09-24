@@ -9,7 +9,6 @@ namespace W2_L8_T4
             Console.WriteLine("Podaj liczbę całkowitą:");
             int userNumber = Convert.ToInt32(Console.ReadLine());
             int counter = 1;
-            //bool stop = false;
 
             Console.WriteLine();
             for (int i = 1; i < userNumber; i++)
