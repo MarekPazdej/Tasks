@@ -6,8 +6,17 @@ namespace W2_L8_T6
     {
         static void Main(string[] args)
         {
-            //czekam na odpowiedź z forum
-            Console.WriteLine("Hello World!");
+            float convertedFraction;
+            float sumOfFraction = 0;
+            float denominator = 0;
+
+            for (int i = 1; i <= 20; i++)
+            {
+                denominator++;
+                convertedFraction = 1f / denominator;
+                sumOfFraction += convertedFraction;
+            }
+            Console.WriteLine($"Suma ułamków wynosi {sumOfFraction:F4}");
         }
     }
 }
